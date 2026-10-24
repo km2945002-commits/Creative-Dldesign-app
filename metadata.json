@@ -1,0 +1,7 @@
+{
+  "name": "Creative Design",
+  "description": "Modern app for Creative Design Company — Web & App Dev, Logos, Business Cards, Packaging & Flex Banners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
